@@ -1,0 +1,22 @@
+body
+{
+	padding-top: 55px;
+}
+
+.jumbotron
+{
+	background: url("../images/feature.jpg") no-repeat center;
+	background-size: cover;
+}
+
+#contact
+{
+	background: url("../images/contact.png") no-repeat center;
+	background-size: cover;
+}
+.btn-warning
+{
+	background-color: transparent;
+	border-color: orange;
+	color: olive;
+}
